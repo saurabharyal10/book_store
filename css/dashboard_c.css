@@ -1,0 +1,48 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+.hd{
+  font-size: 23px;
+  margin-top: 78px;
+  text-transform: uppercase;
+  color:  gray;
+  margin-left: 66px;
+}
+.submit_btn{
+  height:42px;
+  width: 864px;
+  border-radius: 5px 5px;
+  background-color: gray;
+  color: white;
+  margin-top: 6px;
+}
+.li{
+  margin-right:16%;
+}
+.form-field{
+  margin:10px;
+}
+.ad{
+  margin-left: 96px;
+  margin-top: -34px;
+  text-transform: uppercase;
+}
+.ad1{
+  border: 2px solid  gray;
+  border-radius: 3px;
+  margin-left: 80px;
+  margin-top: 17px;
+  height: 216px;
+  width: 270px;
+}
+.rowbar{
+  /*background-color: white;*/
+  color:   gray;
+  word-spacing: 2px;
+/*  margin-top: 25px;*/
+  font-size: 15px;
+/*  margin-left: -94px;*/
+}

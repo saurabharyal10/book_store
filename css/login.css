@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+  }
+  .hd{
+    font-size: 23px;
+    margin-top: 78px;
+    text-transform: uppercase;
+    margin-left: 66px;
+  }
+  .footer{
+      margin-top: 42px;
+      margin-left: 74px;
+      text-transform: uppercase;
+  }
+  .li{
+    margin-right:16%;
+    color: black;
+  }
+  .form-field{
+    margin:12px;
+  }
+  .rowbar{
+    word-spacing: 2px;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: -94px;
+  }
+  .submit_btn{
+    background-color: green;
+    color: white;
+    margin-left: 100px !important;
+    margin-top: 8px;
+  }
+  .reset_btn{
+    background-color: black !important;
+    color: white;
+  }
+  .submit_btn,.reset_btn{
+    height:42px;
+    width:100px;
+    border-radius: 5px 5px;
+}

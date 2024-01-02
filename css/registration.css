@@ -1,0 +1,89 @@
+/* body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: #212F3C !important;
+}
+.th{
+    color: white;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    font-size: 27px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-top: 42px;
+}
+.li{
+    color: white;
+    margin-right: 27px;
+}
+input{
+    font-size: 16px;
+    margin-left: 7px;
+}
+form{
+    margin-top: 42px;;
+}
+.form-field{
+    margin:12px;
+    text-align: center;
+}
+.gender,.file{
+    color:white;
+}
+.SR_btn{
+    margin-right: 21px;
+}
+.submit_btn,.reset_btn{
+    height:42px;
+    width:100px;
+} */
+
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: #212F3C !important;
+
+  }
+  .th{
+    color: white;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    font-size: 27px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-top: 64px;
+}
+  .hd{
+    font-size: 26px;
+    margin-top: 78px;
+    text-transform: uppercase;
+    color: maroon;
+    margin-left: 66px;
+    text-align: center;
+  }
+  input{
+      width: 260px;
+      /* margin-left: 42px; */
+  }
+  .form-field{
+    margin-top:27px;
+    color: white;
+    text-align: center;
+  }
+  .submit_btn,.reset_btn{
+    height:40px;
+    width:110px;
+    border-radius: 7px 7px;
+  }
+  .submit_btn{
+    background-color: green;
+    color: white;
+  }
+  .reset_btn{
+    background-color: black;
+    color: white;
+  }
